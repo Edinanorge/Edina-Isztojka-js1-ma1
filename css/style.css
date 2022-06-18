@@ -1,0 +1,21 @@
+.cat-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.cat {
+  border: 1px solid #777;
+  border-radius: 6px;
+
+  padding: 1rem;
+  background-color: #eee;
+}
+
+.cat-heading {
+  font-size: 1.4rem;
+}
+
+.cat-age {
+  font-size: 1rem;
+}

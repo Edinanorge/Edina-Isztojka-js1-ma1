@@ -28,7 +28,7 @@ Loop through the p elements and change the colour of each to "red".
 
 ### Question 6
 
-Select the div with a class of results, assign it to a variable called `resultsContainer` and set its inner HTML to be `<p>New paragraph</p>` and its background colour to be yellow.
+Select the div with a class of `results`, assign it to a variable called `resultsContainer` and set its inner HTML to be `<p>New paragraph</p>` and its background colour to be yellow.
 
 ### Question 7
 
